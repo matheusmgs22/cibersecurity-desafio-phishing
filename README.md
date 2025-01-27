@@ -16,6 +16,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: https://www.google.com/
 
+    ![alt text](./google_fake.png "site google falso")
+
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./login_senha1.png "Login e senha teste")
+![Alt text](./login_senha2.png "Login e Senha gordox")
+
